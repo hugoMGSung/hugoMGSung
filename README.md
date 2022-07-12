@@ -41,4 +41,4 @@
 ## Project List
 - [WPF] [WPF프로젝트](https://github.com/hugoMGSung/StudyWpf/tree/main/portfolio)
 - [IoT] [IoT프로젝트](https://github.com/hugoMGSung/LearnIoT)
-- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/StudyPython22)
+- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/LearnPython)
