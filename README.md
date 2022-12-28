@@ -6,7 +6,7 @@
 
 ## Profile
 - Name : Hugo MG. Sung (Korean Name : Sung Myung Gun)
-- Email : personar96@naver.com
+- Email : personar95@naver.com
 - 🔭 I’m currently working on ICT Leturer
 
 <!-- White basic simple theme
