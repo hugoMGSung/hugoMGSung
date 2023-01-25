@@ -29,6 +29,8 @@
 </p>
 -->
 
+![hugoMGSung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoMGSung&show_icons=true&theme=radical)
+
 ## Languages
 <p align='left'>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
