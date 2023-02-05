@@ -44,7 +44,7 @@
 
 ## Using Tools
 <p align='left'>
-  <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
+  <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio.png">
   <img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
   <img height='40' src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png'>
   <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
