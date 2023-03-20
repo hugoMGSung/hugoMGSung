@@ -62,3 +62,4 @@
 - [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
 - [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
 - [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/works-need-it-python/tree/main/teaching/teaching2022-2)
+- [Python 미니프로젝트] [미니프로젝트](https://github.com/hugoMGSung/miniprojects/tree/main/part1)
