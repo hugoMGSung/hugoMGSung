@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/hugoMGSung">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=EFE4B0&height=300&section=header&text=Hugo's%20Dev%20Repository&fontSize=40"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=EFE4B0&height=300&section=header&text=Hugo's%20Lecture%20Repository&fontSize=40"/>
   </a>
 </p>
 
