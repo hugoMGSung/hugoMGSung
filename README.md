@@ -19,6 +19,8 @@
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hugoMGSung&theme=onedark)](https://github.com/hugoMGSung)
+
 ## Using Languages
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
