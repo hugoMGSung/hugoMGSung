@@ -19,7 +19,9 @@
   </a>
 </p>
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=hugoMGSung&theme=onedark)](https://github.com/hugoMGSung)
+-->
 
 ## Using Languages
 <p align='left'>
