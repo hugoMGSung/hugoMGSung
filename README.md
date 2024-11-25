@@ -32,7 +32,9 @@
     <img width="40" height="40" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo" title="Go">
     <img height="40" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000" title="Delphi">
     <img height="40" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" title="PHP">
-    <img height="40" src="https://img.icons8.com/?size=100&id=NFQusZJ4neki&format=png&color=000000" title="Databases">
+    <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
+    <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server" title="SQL Server">
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
 </p>
 
 ## Using Technics
@@ -44,6 +46,7 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> 
   <img height="40" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
   <img height="40" src="https://img.icons8.com/?size=100&id=UeryvfCLUAc3&format=png&color=000000" title="ML/DL"> 
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
   
   <img height="40" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" title="OpenCV">
   <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
@@ -59,6 +62,7 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
   <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="Jetbrains">
+  <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3" title="Android Studio">
 </p>
 
 <!--
