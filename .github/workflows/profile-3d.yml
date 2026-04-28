@@ -1,0 +1,27 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 하루 1번 자동 실행
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate 3D profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config --local user.email "personar95@naver.com"
+          git config --local user.name "hugoMGSung"
+          git add -A
+          git commit -m "update 3d graph" || echo "no changes"
+          git push
