@@ -1,3 +1,6 @@
+- 줌링크
+  : https://pknu.zoom.us/j/82229246464?pwd=MRNHWASgG1BgbOTNkZnqEUj3rphofY.1
+
 <p align='center'>
   <a href="https://github.com/hugoMGSung">
     <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hugo's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=IoT%20CSharp,Java,Python%20Lecturer"/>
