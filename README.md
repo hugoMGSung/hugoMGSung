@@ -1,5 +1,5 @@
 - 줌링크
-  : https://pknu.zoom.us/j/81122507603?pwd=CtbcVQzFAGCVJ0IWeV58sbaQoSarlX.1
+  : https://pknu.zoom.us/j/84396139067?pwd=D26gfDgQ1U3vdSmjyEqEB9uO79K2as.1
 
 <p align='center'>
   <a href="https://github.com/hugoMGSung">
