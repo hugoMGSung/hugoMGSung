@@ -24,6 +24,13 @@
     ...
 </p>
 
+<p align="left">
+    <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+</p>
+
+
 ### 사용툴
 
 <p align="left">
@@ -54,3 +61,12 @@
 
 - [WPF] 
     - [OpenAPI CCTV 모니터링앱](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT1.md)
+
+
+### Contributiuon
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+## 🌱 My Contribution 3D Graph
+
+![](./profile-3d-contrib/profile-green-animate.svg)
