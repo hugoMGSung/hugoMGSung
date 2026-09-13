@@ -84,7 +84,6 @@
 - [AI] [AI 비전검사 시스템](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT4.md)
 - [AI] [AI 문서검색·질의응답 시스템](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT7.md)
 - [IoT] [에너지 관리 시스템](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
-
 - [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
 
 ### C#
