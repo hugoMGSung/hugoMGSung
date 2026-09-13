@@ -78,11 +78,28 @@
 -->
 
 ## Project List
-- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
-- [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
-- [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
-- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
+
+### Python
+
+- [AI] [AI 비전검사 시스템](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT4.md)
+- [AI] [AI 문서검색·질의응답 시스템](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT7.md)
+- [IoT] [에너지 관리 시스템](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
+
 - [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
-- [Spring Boot 2026] [SpringBoot](https://github.com/hugoMGSung/java-springboot-2026)
+
+### C#
+
+- [WPF] [국가교통정보센터 CCTV앱](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT1.md)
+- [WinForm] [국가교통정보 CCTV앱](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
+- [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
+
+### Java
+
+- [Java Web] [SpringBoot](https://github.com/hugoMGSung/java-springboot-2026)
+
+### ETC
+
+- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
+
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
