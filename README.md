@@ -1,12 +1,11 @@
-
 <p align='center'>
   <a href="https://github.com/hugoMGSung">
     <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=Hugo's%20Lect%20Bank&section=header&reversal=false&textBg=false&fontColor=08429B&fontSize=55&fontAlign=50&fontAlignY=36&animation=twinkling&stroke=EFEFEF&strokeWidth=3&desc=IoT%20개발자/강사&descSize=15&descAlignY=51"/>
   </a>
 </p>
 
-
 ## Profile
+
 - `Name` : Sung MyungGun (Hugo)
 - `Email` : personar95@naver.com
 - 🔭 I'm currently working as an **IoT instructor**
@@ -14,6 +13,7 @@
   - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
 
 ## Using Languages
+
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
     <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
@@ -31,6 +31,7 @@
 </p>
 
 ## Using Technics
+
 <p align='left'>
   <img height="40" src="https://raw.githubusercontent.com/hugoMGSung/hugoMGSung/main/images/wpf.png" title="WPF"> 
   <img height="40" src="https://cdn-icons-png.flaticon.com/256/7808/7808214.png" title="SmartFactory">  
@@ -40,8 +41,8 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
   <img height="40" src="https://img.icons8.com/?size=100&id=UeryvfCLUAc3&format=png&color=000000" title="ML/DL"> 
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
-  
-  <img height="40" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" title="OpenCV">
+
+<img height="40" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" title="OpenCV">
   <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
   <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
   <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
@@ -51,6 +52,7 @@
 </p>
 
 ## Using Tools
+
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
@@ -58,16 +60,28 @@
   <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3" title="Android Studio">
 </p>
 
-### 프로젝트 리스트
-- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
+### 주요 프로젝트 리스트
+
+#### Python
+
 - [AI비전] [AI비전검사앱](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT4.md)
 - [LLM활용] [AI 문서검색·질의응답 시스템](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT7.md)
+- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
+- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
+
+#### C#
+
 - [WPF] [국가교통정보CCTV앱](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT1.md)
 - [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
 - [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
-- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
-- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
+
+#### Java
+
 - [Spring Boot 2026] [SpringBoot](https://github.com/hugoMGSung/java-springboot-2026)
+
+#### ETC
+
+- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
 
 ## 🌱 My Contribution 3D Graph
 
