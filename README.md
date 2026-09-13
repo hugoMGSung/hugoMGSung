@@ -13,7 +13,7 @@
 - `Email` : personar95@naver.com
 - 🔭 I'm currently working as an **IoT instructor**
   - Major : C#, Smart Factory, IoT Development
-  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
+  - Minor : Python, AI, Java, Web Dev(Spring Boot, ASP.NET, etc)
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
