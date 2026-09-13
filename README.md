@@ -60,6 +60,8 @@
 
 ### 프로젝트 리스트
 - [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
+- [AI비전] [AI비전검사앱](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT4.md)
+- [AI 문서검색·질의응답 시스템](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT7.md)
 - [WPF] [국가교통정보CCTV앱](https://github.com/hugoMGSung/iot-dotnet-2026/blob/main/TOYPROJECT1.md)
 - [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
 - [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
